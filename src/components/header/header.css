@@ -1,0 +1,62 @@
+.header {
+    position: sticky;
+    top: 0px;
+    width: 900px ;
+    margin: 0 auto;
+    
+    
+}
+
+.logo {
+    margin-left: 20px;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.5); 
+}
+
+.wrapper {
+    background-color: orange;
+}
+
+.ikonka {
+    margin: 10px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.input {
+    align-items: center;
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: transparent;
+    color: inherit;
+    outline: none;
+}
+
+.upperHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 160px;
+}
+
+.middleHeader {
+    width: 900px;
+    background-color: black;
+    height: 40px;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar {
+    display: flex; 
+}
+
+.p {
+    color: orange;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+
+

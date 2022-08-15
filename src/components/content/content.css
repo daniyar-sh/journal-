@@ -1,0 +1,8 @@
+.contentMain {
+    margin: 0 auto;
+    width: 850px;
+    padding: 25px;
+    background-color: #fff;
+    overflow: hidden;
+    max-height: 5000px;
+}

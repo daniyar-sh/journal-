@@ -1,0 +1,21 @@
+.App {
+    background-color: floralwhite;
+}
+
+.reclamaverh {
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.AppWrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.appRec {
+    display: flex;
+    align-items: center;
+}
